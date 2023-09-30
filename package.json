@@ -9,7 +9,7 @@
       "node": "18.16.0"
    },
    "scripts": {
-      "start": "node index.js",
+      "start": "node ./docs/server/server.js",
       "dev": "nodemon ./docs/server/server.js"
    }
 }
